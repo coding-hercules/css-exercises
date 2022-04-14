@@ -29,6 +29,7 @@ body {
 
   margin-top: 10px;
   text-align: center;
+  padding: 10px;
 }
 
 button {
@@ -37,4 +38,5 @@ button {
 
   display: block;
   margin: auto;
+  padding: 10px;
 }
