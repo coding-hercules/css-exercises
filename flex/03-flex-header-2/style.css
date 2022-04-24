@@ -21,7 +21,7 @@ body {
   background: rebeccapurple;
   box-shadow: inset 2px 2px 4px rgba(0,0,0,.5);
   border-radius: 50%;
-  width: 48px;
+  min-width: 48px;
   height:  48px;
 
   margin: 10px;
@@ -51,6 +51,7 @@ button {
   padding: 8px 24px;
   
   margin: 10px 10px 10px auto;
+  flex: 0 0 auto;
 }
 
 a {
@@ -67,4 +68,8 @@ ul {
   padding:0;
   gap: 20px;
 
+}
+
+li {
+  flex: 0 0 auto;
 }
