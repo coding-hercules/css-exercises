@@ -18,11 +18,12 @@ img {
 .container {
   display: flex;
   gap: 52px;
-  
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .item {
-  
+  width: 200px;
 }
 
 .text {
