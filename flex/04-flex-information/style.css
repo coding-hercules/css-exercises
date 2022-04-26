@@ -24,11 +24,15 @@ img {
 
 .item {
   width: 200px;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
 }
 
 .text {
   text-align: center;
 }
+
 
 
 
