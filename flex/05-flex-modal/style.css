@@ -78,6 +78,7 @@ button.cancel {
 
 #top {
   display: flex;
+  
 }
 
 .header {
@@ -85,7 +86,8 @@ button.cancel {
   font-size: 125%;
 }
 
-
-.right div {
-  margin-bottom: 18px;
+#top, .text {
+  margin-bottom: 18px;;
 }
+
+
