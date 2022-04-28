@@ -76,4 +76,6 @@ button.cancel {
   font-size: 125%;
 }
 
-div.close-button {}
+#top {
+  display: flex;
+}
