@@ -71,11 +71,21 @@ button.cancel {
   display: flex;
 }
 
+.right {
+  margin-left: 18px;
+
+}
+
+#top {
+  display: flex;
+}
+
 .header {
   font-weight: bolder;
   font-size: 125%;
 }
 
-#top {
-  display: flex;
+
+.right div {
+  margin-bottom: 18px;
 }
