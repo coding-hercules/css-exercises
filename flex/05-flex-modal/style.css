@@ -78,7 +78,7 @@ button.cancel {
 
 #top {
   display: flex;
-  
+  align-items: center;
 }
 
 .header {
