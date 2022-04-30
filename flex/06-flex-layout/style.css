@@ -34,6 +34,10 @@ input {
   margin: 20px;
 }
 
+div {
+  text-align: center;
+}
+
 ul {
   display: flex ;
   list-style: none;
