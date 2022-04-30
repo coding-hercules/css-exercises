@@ -31,7 +31,7 @@ input {
 .header, .footer {
   display: flex;
   justify-content: space-between;
-  margin: 20px;
+  padding: 20px;
 }
 
 div {
@@ -49,6 +49,10 @@ ul {
 a {
   text-decoration: none;
   color:rgb(79, 79, 79);
+}
+
+.footer {
+  background-color: #eeeeee;
 }
 
 
