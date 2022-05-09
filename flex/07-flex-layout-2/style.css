@@ -46,3 +46,12 @@ body {
 div.sidebar {
   font-size: 24px;
 }
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+ul {
+  list-style: none;
+}
