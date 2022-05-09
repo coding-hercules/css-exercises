@@ -26,3 +26,14 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
 }
+
+/*SOLUTION*/
+
+body {
+  display: flex;
+  flex-flow: column;
+}
+
+.center-block {
+  display: flex;
+}
