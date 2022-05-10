@@ -38,11 +38,21 @@ body {
   font-size: 32px;
   font-weight: 900;
   padding: 16px;
+  /* Below vertically centers header text */
+  display: flex;
+  align-items: center;
 }
 
 .center-block {
   flex: 1 1 auto;
   display: flex;
+}
+
+.footer {
+  /* Below vertically and horizontally centers footer text */
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 div.sidebar {
