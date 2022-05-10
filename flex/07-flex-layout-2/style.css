@@ -75,7 +75,6 @@ div.card {
   margin: 0 10px 10px 0;
   /* Below specifies width so that wrap can occur */
   width: 230px;
-  height: 230px;
 }
 
 a {
