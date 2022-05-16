@@ -60,7 +60,6 @@ div.sidebar {
   padding: 16px;
   box-sizing: border-box;
   /* Below prevents sidebar from growing or shrinking from the specified width of 300px */
-  width: 300px;
   flex: 0 0 auto;
 }
 
